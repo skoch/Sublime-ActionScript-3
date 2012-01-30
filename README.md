@@ -10,7 +10,7 @@ If you have the [Package Control][package_control] package installed, you can in
 
 If you don't have Package Control installed you will need to make a clone of this repository into your packages folder:
 
-    git clone https://github.com/skoch/sublime-actionscript-3.git 'ActionScript 3'
+    git clone git://github.com/skoch/Sublime-ActionScript-3.git 'ActionScript 3'
 
 
 [sublime]: http://www.sublimetext.com/
