@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Out.info( this, "$SELECTION: " + $SELECTION );]]></content>
+    <tabTrigger>Out</tabTrigger>
+    <scope>source.actionscript.3</scope>
+    <description>Out.info</description>
+</snippet>
