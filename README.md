@@ -24,6 +24,7 @@ Initial release contains:
 ## Development Branch ##
 
 To be used for developing specific snippets.
+- Contains Out snippet for Big Spaceship Out class (trace)
 
 [sublime]: http://www.sublimetext.com/
 [package_control]: http://wbond.net/sublime_packages/package_control
