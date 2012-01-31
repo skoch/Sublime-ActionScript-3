@@ -12,6 +12,18 @@ If you don't have Package Control installed you will need to make a clone of thi
 
     git clone git://github.com/skoch/Sublime-ActionScript-3.git 'ActionScript 3'
 
+## Versions ##
+
+### 1.0 ###
+
+Initial release contains:
+	if/if else
+	for/for(faster)
+	comments
+
+## Development Branch ##
+
+To be used for developing specific snippets.
 
 [sublime]: http://www.sublimetext.com/
 [package_control]: http://wbond.net/sublime_packages/package_control
