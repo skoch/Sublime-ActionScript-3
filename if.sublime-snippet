@@ -2,7 +2,7 @@
     <content><![CDATA[if( ${1:true} )
 {
 	${0:$TM_SELECTED_TEXT}
-};]]></content>
+}]]></content>
     <tabTrigger>if</tabTrigger>
     <scope>source.actionscript.3</scope>
     <description>if</description>

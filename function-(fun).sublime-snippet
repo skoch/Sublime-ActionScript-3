@@ -1,7 +1,8 @@
 <snippet>
-    <content><![CDATA[function ${1:function_name} (${2:argument}) {
+    <content><![CDATA[function ${1:function_name}( ${2:argument} )
+{
 	${0:// body...}
-}]]></content>
+};]]></content>
     <tabTrigger>fun</tabTrigger>
     <scope>source.actionscript.3</scope>
     <description>Function</description>
