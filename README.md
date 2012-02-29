@@ -14,17 +14,22 @@ If you don't have Package Control installed you will need to make a clone of thi
 
 ## Versions ##
 
+### 1.0.1 ###
+
+* Added switch snippet
+* Moved the Out snippet to master
+* Cleaned syntax
+
 ### 1.0 ###
 
 Initial release contains:
-	if/if else
-	for/for(faster)
-	comments
+* if/if else
+* for/for(faster)
+* comments
 
 ## Development Branch ##
 
 To be used for developing specific snippets.
-- Contains Out snippet for Big Spaceship Out class (trace)
 
 [sublime]: http://www.sublimetext.com/
 [package_control]: http://wbond.net/sublime_packages/package_control
