@@ -14,12 +14,18 @@ If you don't have Package Control installed you will need to make a clone of thi
 
 ## Versions ##
 
+### 1.0.1 ###
+
+* Added switch snippet
+* Moved the Out snippet to master
+* Cleaned syntax
+
 ### 1.0 ###
 
 Initial release contains:
-	if/if else
-	for/for(faster)
-	comments
+* if/if else
+* for/for(faster)
+* comments
 
 ## Development Branch ##
 
